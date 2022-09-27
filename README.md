@@ -11,7 +11,9 @@ pkg install git
 #Run
 
 https://github.com/Nisad-Hossain/NH_UID.2K9
+
 cd NH_UID.2K9
+
 python NH_UID.2K9.py
 
 Note: (This Tools Are Free, So You No Need Permission To Use NH_UID.2K9 Tools Enjoy)
