@@ -8,6 +8,8 @@ pip2 install requests
 
 pkg install python2
 
+pkg install python
+
 pkg install git
 
 # Run
