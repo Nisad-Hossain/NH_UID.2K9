@@ -14,7 +14,7 @@ pkg install git
 
 # Run
 
-https://github.com/Nisad-Hossain/NH_UID.2K9
+git clone https://github.com/Nisad-Hossain/NH_UID.2K9
 
 cd NH_UID.2K9
 
